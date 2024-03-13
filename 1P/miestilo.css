@@ -1,0 +1,12 @@
+.navegador{
+    display: flex;
+    background-color: rgb(219, 176, 230);
+    overflow: hidden;
+}
+.navegador ul li{
+    list-style-type: none;
+    display: inline;
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
+}
