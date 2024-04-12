@@ -1,0 +1,92 @@
+.navegador {
+    display : flex;
+    background-color: rgb(255, 102, 25);
+    /* overflow: hidden; */
+}
+
+.navegador ul li{
+    list-style-type: none;
+    display: inline;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 102, 25);
+}
+.navegador .buscar{
+    margin-left: auto ;
+    margin-rigth:10px ;
+    margin-top: 5px ;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    border:1px solid rgb(255, 255, 255);
+}
+.navegador button{
+    margin-left: auto;
+    margin-botton: 2px;
+    margin-top: 2px;
+    border-radius: 5px;
+}
+.navegador input[type="text"]{
+    margin-left: 0px ;
+    margin-right: 10px;
+    margin-top: 5px ;
+    margin-bottom: 5px ;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px rgb(255, 255, 255);
+}
+.navegador img{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 5px;
+    border-radius: 5px;
+}
+.navegador buscar img{
+    width: 20px;
+    heigth: 20px;
+}
+.contenedor {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 auto;
+	max-width: 1200px;
+	padding: 20px;
+}
+
+.izquierda {
+	width: 40%;
+}
+
+.derecha {
+	display: flex;
+	width: 55%;
+}
+
+.cuadro {
+	background-color: #4CAF50;
+	border-radius: 5px;
+	color: white;
+	margin-bottom: 20px;
+	padding: 20px;
+}
+
+.cuadro h2 {
+	margin-top: 0;
+}
+
+.imagen {
+	margin-right: 20px;
+	width: 40%;
+}
+
+.imagen img {
+	width: 100%;
+}
+
+.texto {
+	width: 60%;
+}
