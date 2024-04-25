@@ -1,0 +1,45 @@
+*{
+    color: white;
+}
+
+p{
+    width: 100%;
+    margin: 0px;
+}
+
+body{
+    background-color: rgb(0, 38, 255);
+}
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+select{
+    width: 100%;
+    border-color: white;
+    background-color: transparent;
+}
+
+input{
+    width: 100%;
+    border-color: white;
+    background-color: transparent;
+}
+
+textarea{
+    width: 100%;
+    border-color: white;
+    background-color: transparent;
+}
+
+.icono{
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    font-size: large;
+    border-radius: 999px;
+    border-color: white;
+    border-style: solid;
+    cursor: pointer;
+}
