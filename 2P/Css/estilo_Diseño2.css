@@ -1,0 +1,29 @@
+.ColorNegro{
+    background-color: black;
+}
+
+.ColorRojonaranja{
+    background-color: rgb(255, 81, 0);
+}
+
+p{
+    margin: 0px;
+}
+
+.Borde{
+    border: 1px solid black;
+}
+
+.ColorGris{
+    background-color: rgb(233, 233, 233);
+}
+
+.barra{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.barra p{
+    padding: 20px 0px;
+}
