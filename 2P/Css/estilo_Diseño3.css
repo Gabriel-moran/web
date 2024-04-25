@@ -1,0 +1,18 @@
+.Barra{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: url(../Assents/img/michael-brandt-332242-unsplash.jpg);
+}
+
+.Borde{
+    border: 1px solid black;
+}
+
+p{
+    margin-bottom: 0px;
+}
+
+.Barra p{
+    margin: 18px 0px;
+}
