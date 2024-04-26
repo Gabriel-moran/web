@@ -1,0 +1,20 @@
+.Pantalla{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(198, 206, 212);
+}
+
+.TextoLogo{
+    font-size: 80px;
+    color: rgb(33, 67, 255);
+}
+
+.MiBoton{
+    color: white;
+    border-radius: 6px;
+    border-color: transparent;
+    background-color: rgb(0, 216, 0);
+}
