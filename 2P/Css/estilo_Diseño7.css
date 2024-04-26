@@ -1,0 +1,53 @@
+p{
+    margin-bottom: 0px;
+}
+
+.Espacio{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: linear-gradient(0deg, rgb(34, 34, 34), rgb(110, 18, 40), rgb(49, 63, 124), rgb(164, 167, 13));
+}
+
+.Bar{
+    color: white;
+    width: 100vw;
+    height: 50px;
+    background-color: rgb(115, 0, 150);
+}
+
+.Bar input{
+    background-color: transparent;
+}
+
+.Bar img{
+    height: 40px;
+}
+
+.imagen{
+    width: 200px;
+}
+
+.btn-1{
+    color: white;
+    padding: 8px;
+    background-color: rgb(63, 63, 63);
+    border-radius: 8px;
+    border-color: transparent;
+}
+
+.btn-2{
+    color: white;
+    padding: 8px;
+    background-color: rgb(115, 0, 150);
+    border-radius: 8px;
+    border-color: transparent;
+}
+
+.texto{
+    background-color: rgb(255, 236, 127);
+    padding: 9px;
+    border-radius: 25px;
+}
