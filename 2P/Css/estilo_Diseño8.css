@@ -1,0 +1,45 @@
+.Pantalla{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: rgb(49, 77, 102);
+}
+p{
+    color: white;
+    margin-bottom: 0px;
+}
+.imagen{
+    padding: 0px 15px;
+    height: 50px;
+    background-color: white;
+}
+.Bar{
+    height: 50px;
+    background-color: rgb(119, 133, 255);
+}
+
+.Bar p{
+    margin: 0px 10px;
+}
+
+.barrita{
+    width: 40px;
+    margin: 4px 8px;
+    padding: 2px 0px;
+    border-radius: 9px;
+    background-color: rgb(148, 148, 148);
+}
+
+.barrita-light{
+    width: 40px;
+    margin: 4px 8px;
+    padding: 2px 0px;
+    border-radius: 9px;
+    background-color: rgb(207, 207, 207);
+}
+.imagen2{
+    width: 250px;
+}
