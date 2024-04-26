@@ -1,0 +1,21 @@
+.ColorAquamarine{
+    background-color: aquamarine;
+}
+
+p{
+    margin-bottom: 0px;
+}
+
+.Titulo{
+    font-size: 55px;
+}
+
+
+.LetraBlanca{
+    color: white;
+}
+
+.fondo{
+    background-color: rgb(106, 211, 176);
+    border-radius: 8px;
+}
